@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning svelte.js
 - 💞️ I’m looking to collaborate on any openSource Project
 - 📫 How to reach me https://www.linkedin.com/in/hern%C3%A1n-nadotti-774bb83b/ or https://hernannadotti.com/
-- I'm currently working at Nybble Group for Pet Partners.
+- I'm currently working at Nybble Group for Pet Partners, Inc.
 
 <!---
 hernannadotti/hernannadotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
