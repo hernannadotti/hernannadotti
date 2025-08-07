@@ -1,4 +1,6 @@
-<img src="https://github.com/hernannadotti.png" alt="Profile Photo" width="120" style="border-radius: 50%;" />
+<p align="center">
+  <img src="https://github.com/hernannadotti.png" alt="Profile Photo" width="120" height="120" style="border-radius:50%;object-fit:cover;" />
+</p>
 
 ## 👋 About Me
 
@@ -30,6 +32,6 @@ Open-source projects, especially in frontend development.
 Currently working at Nybble Group for Pet Partners, Inc.
 
 <!---
-hernannadotti/hernannadotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+h ernannadotti/hernannadotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
