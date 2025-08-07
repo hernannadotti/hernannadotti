@@ -26,6 +26,8 @@ Tools & Practices
  - Responsive Design
 
 
+
+
 - 👋 Hi, I’m @hernannadotti
 - 👀 I’m interested in Front End develop
 - 🌱 I’m currently learning svelte.js
