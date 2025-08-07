@@ -1,43 +1,31 @@
 ## 👋 About Me
 
-Hello, I'm Hernán Nadotti, a web developer passionate about creating clean, functional, and user-friendly websites and applications. 
-With a focus on modern web technologies, I specialize in building responsive interfaces that provide exceptional user experiences across all devices.
+Hello, I'm Hernán Nadotti, a web developer passionate about creating clean, functional, and user-friendly websites and applications. I specialize in building responsive interfaces using modern web technologies.
 
-My approach to development emphasizes simplicity and performance, creating solutions that are both elegant and efficient.
-When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.
+## 🛠️ Skills
 
+**Frontend:**  
+HTML/CSS, JavaScript, TypeScript, Angular, NGRX, RXJS, Vue.js, React, Next.js, Bootstrap, Tailwind CSS
 
-Frontend Development
- -  HTML/CSS
- -  JavaScript
- -  TypeScript
- -  Angular
- -  NGRX
- -  RXJS
- -  Vue.js
- -  React
- -  Next.js
- -  Bootstrap
- -  Tailwind CSS
+**Tools & Practices:**  
+Git, CI/CD, Testing, Performance Optimization, Responsive Design
 
-Tools & Practices
- - Git
- - CI/CD
- - Testing
- - Performance Optimization
- - Responsive Design
+## 🌱 Currently Learning
 
+Svelte.js
 
+## 🤝 Looking to Collaborate
 
+Open-source projects, especially in frontend development.
 
-- 👋 Hi, I’m @hernannadotti
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning svelte.js
-- 💞️ I’m looking to collaborate on any openSource Project
-- 📫 I'm currently working at Nybble Group for Pet Partners, Inc.
+## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hern%C3%A1n-nadotti-774bb83b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hern%C3%A1n-nadotti-774bb83b/)  
 [![Website](https://img.shields.io/badge/Website-hernannadotti.me-brightgreen)](https://hernannadotti.me/)
+
+## 💼 Work
+
+Currently working at Nybble Group for Pet Partners, Inc.
 
 <!---
 hernannadotti/hernannadotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
