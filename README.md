@@ -5,6 +5,27 @@ My approach to development emphasizes simplicity and performance, creating solut
 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.
 
 
+Frontend Development
+  HTML/CSS
+  JavaScript
+  TypeScript
+  Angular
+  NGRX
+  RXJS
+  Vue.js
+  React
+  Next.js
+  Bootstrap
+  Tailwind CSS
+
+Tools & Practices
+  Git
+  CI/CD
+  Testing
+  Performance Optimization
+  Responsive Design
+
+
 - 👋 Hi, I’m @hernannadotti
 - 👀 I’m interested in Front End develop
 - 🌱 I’m currently learning svelte.js
