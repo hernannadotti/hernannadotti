@@ -1,4 +1,6 @@
-Hello, I'm Hernán Nadotti, a web developer passionate about creating clean, functional, and user-friendly websites and applications.
+## 👋 About Me
+
+Hello, I'm Hernán Nadotti, a web developer passionate about creating clean, functional, and user-friendly websites and applications. 
 With a focus on modern web technologies, I specialize in building responsive interfaces that provide exceptional user experiences across all devices.
 
 My approach to development emphasizes simplicity and performance, creating solutions that are both elegant and efficient.
@@ -29,7 +31,7 @@ Tools & Practices
 
 
 - 👋 Hi, I’m @hernannadotti
-- 👀 I’m interested in Front End develop
+- 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning svelte.js
 - 💞️ I’m looking to collaborate on any openSource Project
 - 📫 How to reach me https://www.linkedin.com/in/hern%C3%A1n-nadotti-774bb83b/ or https://hernannadotti.me/
