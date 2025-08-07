@@ -1,3 +1,5 @@
+![Profile Photo](https://github.com/hernannadotti.png)
+
 ## 👋 About Me
 
 Hello, I'm Hernán Nadotti, a web developer passionate about creating clean, functional, and user-friendly websites and applications. I specialize in building responsive interfaces using modern web technologies.
@@ -30,4 +32,4 @@ Currently working at Nybble Group for Pet Partners, Inc.
 <!---
 hernannadotti/hernannadotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
