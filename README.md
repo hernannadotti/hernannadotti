@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/hernannadotti.png" alt="Profile Photo" width="120" height="120" style="border-radius:50%;object-fit:cover;" />
+  <span style="display:inline-block;width:120px;height:120px;overflow:hidden;border-radius:50%;">
+    <img src="https://github.com/hernannadotti.png" alt="Profile Photo" width="120" height="120" style="object-fit:cover;">
+  </span>
 </p>
 
 ## 👋 About Me
