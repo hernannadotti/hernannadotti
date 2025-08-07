@@ -1,3 +1,6 @@
+Hello, I'm Hernán Nadotti, a web developer passionate about creating clean, functional, and user-friendly websites and applications.
+
+
 - 👋 Hi, I’m @hernannadotti
 - 👀 I’m interested in Front End develop
 - 🌱 I’m currently learning svelte.js
