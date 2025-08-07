@@ -1,4 +1,4 @@
-![Profile Photo](https://github.com/hernannadotti.png)
+<img src="https://github.com/hernannadotti.png" alt="Profile Photo" width="120" style="border-radius: 50%;" />
 
 ## 👋 About Me
 
