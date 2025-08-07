@@ -1,4 +1,8 @@
 Hello, I'm Hernán Nadotti, a web developer passionate about creating clean, functional, and user-friendly websites and applications.
+With a focus on modern web technologies, I specialize in building responsive interfaces that provide exceptional user experiences across all devices.
+
+My approach to development emphasizes simplicity and performance, creating solutions that are both elegant and efficient.
+When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.
 
 
 - 👋 Hi, I’m @hernannadotti
