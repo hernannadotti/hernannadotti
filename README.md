@@ -34,8 +34,10 @@ Tools & Practices
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning svelte.js
 - 💞️ I’m looking to collaborate on any openSource Project
-- 📫 How to reach me https://www.linkedin.com/in/hern%C3%A1n-nadotti-774bb83b/ or https://hernannadotti.me/
-- I'm currently working at Nybble Group for Pet Partners, Inc.
+- 📫 I'm currently working at Nybble Group for Pet Partners, Inc.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hern%C3%A1n-nadotti-774bb83b/)
+[![Website](https://img.shields.io/badge/Website-hernannadotti.me-brightgreen)](https://hernannadotti.me/)
 
 <!---
 hernannadotti/hernannadotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
