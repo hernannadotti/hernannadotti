@@ -6,24 +6,24 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 
 Frontend Development
-  HTML/CSS
-  JavaScript
-  TypeScript
-  Angular
-  NGRX
-  RXJS
-  Vue.js
-  React
-  Next.js
-  Bootstrap
-  Tailwind CSS
+ -  HTML/CSS
+ -  JavaScript
+ -  TypeScript
+ -  Angular
+ -  NGRX
+ -  RXJS
+ -  Vue.js
+ -  React
+ -  Next.js
+ -  Bootstrap
+ -  Tailwind CSS
 
 Tools & Practices
-  Git
-  CI/CD
-  Testing
-  Performance Optimization
-  Responsive Design
+ - Git
+ - CI/CD
+ - Testing
+ - Performance Optimization
+ - Responsive Design
 
 
 - 👋 Hi, I’m @hernannadotti
