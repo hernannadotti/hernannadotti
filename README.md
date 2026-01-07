@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hello, I'm Hernán Nadotti, a web developer passionate about creating clean, functional, and user-friendly websites and applications. I specialize in building responsive interfaces using modern web technologies.
+Hello, I'm Hernán Nadotti, a web developer & AI enthusiast passionate about creating clean, functional, and user-friendly websites and applications. I specialize in building responsive interfaces using modern web technologies.
 
 ## 🛠️ Skills
 
@@ -15,6 +15,11 @@ HTML/CSS, JavaScript, TypeScript, Angular, NGRX, RXJS, Vue.js, React, Next.js, B
 
 **Tools & Practices:**  
 Git, CI/CD, Testing, Performance Optimization, Responsive Design
+
+## AI
+
+**SDD Spec Driven Development**
+Agent usage and configuration, and SDD flow implementation and Integration with differents tools
 
 ## 🌱 Currently Learning
 
