@@ -84,9 +84,9 @@ I'm a passionate **Web Developer** specializing in creating clean, functional, a
 
 *Above: Animated visualization of my GitHub contributions*
 
-### 🟩 Last Year's Contributions
+### 🟦 Last Year's Contributions
 
-![GitHub Contribution Grid](https://ghchart.rshah.org/00C7B7/hernannadotti)
+![GitHub Contribution Grid](https://ghchart.rshah.org/2F81F7/hernannadotti)
 
 *GitHub contribution activity for the past 12 months*
 
