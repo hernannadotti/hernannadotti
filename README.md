@@ -56,12 +56,17 @@ I'm a passionate **Web Developer** specializing in creating clean, functional, a
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<a href="https://github.com/hernannadotti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hernannadotti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernannadotti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF&langs_count=8"/>
+</a>
+
+</div>
+
+<div align="center">
   
-![Hernán's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hernannadotti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hernannadotti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hernannadotti&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hernannadotti&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)](https://git.io/streak-stats)
 
 </div>
 
@@ -92,16 +97,6 @@ I'm actively exploring **AI-powered development workflows**, including:
 - **Agent Configuration & Integration** - Setting up AI assistants for development tasks
 - **Spec Driven Development (SDD)** - Implementing structured workflows with AI tools
 - **Automation & Productivity** - Leveraging AI to enhance development efficiency
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-![Hernán's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hernannadotti&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF)
-
-</div>
 
 ---
 
