@@ -70,6 +70,16 @@ I'm a passionate **Web Developer** specializing in creating clean, functional, a
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://ghchart.rshah.org/00C7B7/hernannadotti)
+
+</div>
+
+---
+
 ## 🎯 Featured Projects
 
 ### 🌐 [Sunnyside Agency Landing](https://github.com/hernannadotti/sunnyside_agency_landing)
