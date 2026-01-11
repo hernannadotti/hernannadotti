@@ -76,6 +76,8 @@ I'm a passionate **Web Developer** specializing in creating clean, functional, a
 
 ![GitHub Activity Graph](https://ghchart.rshah.org/00C7B7/hernannadotti)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hernannadotti&theme=tokyonight)
+
 </div>
 
 ---
