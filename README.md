@@ -74,9 +74,21 @@ I'm a passionate **Web Developer** specializing in creating clean, functional, a
 
 <div align="center">
 
-![GitHub Activity Graph](https://ghchart.rshah.org/00C7B7/hernannadotti)
+### 📅 GitHub Contribution Calendar
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hernannadotti&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hernannadotti/hernannadotti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hernannadotti/hernannadotti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernannadotti/hernannadotti/output/github-contribution-grid-snake.svg">
+</picture>
+
+*Above: Animated visualization of my GitHub contributions*
+
+### 🟩 Last Year's Contributions
+
+![GitHub Contribution Grid](https://ghchart.rshah.org/00C7B7/hernannadotti)
+
+*GitHub contribution activity for the past 12 months*
 
 </div>
 
