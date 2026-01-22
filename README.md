@@ -93,24 +93,6 @@ I'm a passionate **Web Developer** specializing in creating clean, functional, a
 
 ---
 
-## 🎯 Featured Projects
-
-### 🌐 [Sunnyside Agency Landing](https://github.com/hernannadotti/sunnyside_agency_landing)
-A modern, responsive landing page showcasing clean design and smooth interactions.
-- **Tech:** HTML, CSS, JavaScript
-- **Features:** Responsive design, Modern UI/UX
-
-### 🎨 [3 Column Preview Card Component](https://github.com/hernannadotti/3_columna_preview_card_component)
-Clean component design demonstrating layout mastery and responsive techniques.
-- **Tech:** HTML, CSS
-- **Focus:** Component architecture, Mobile-first design
-
-### 💼 [Professional CV](https://myprofessionalcuvitae.netlify.app/)
-Interactive online resume showcasing my professional experience and skills.
-- **Tech:** HTML, CSS, JavaScript
-- **Live:** Deployed on Netlify
-
----
 
 ## 🤖 AI & Spec Driven Development
 
