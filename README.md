@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Web+Developer+%26+AI+Enthusiast;Frontend+Specialist;Building+Responsive+Experiences)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernán-nadotti-774bb83b/)
-[![Website](https://img.shields.io/badge/Portfolio-hernannadotti.me-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hernannadotti.me/)
 [![CV](https://img.shields.io/badge/CV-Online-success?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://myprofessionalcuvitae.netlify.app/)
 
 </div>
