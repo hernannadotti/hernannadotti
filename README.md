@@ -52,17 +52,6 @@ I'm a passionate **Web Developer** specializing in creating clean, functional, a
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-```text
-🔥 Contributions & Projects
-├─ 16 Public Repositories
-├─ Contributing to Pet Partners, Inc.
-└─ Specializing in Frontend Development
-```
-
 **Primary Technologies:** TypeScript • Angular • React • Vue.js • Next.js
 
 </div>
