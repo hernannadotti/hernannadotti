@@ -81,16 +81,6 @@ I'm a passionate **Web Developer** specializing in creating clean, functional, a
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernannadotti/hernannadotti/output/github-contribution-grid-snake.svg">
 </picture>
 
-*Above: Animated visualization of my GitHub contributions*
-
-### 🟦 Last Year's Contributions
-
-![GitHub Contribution Grid](https://ghchart.rshah.org/2F81F7/hernannadotti)
-
-*GitHub contribution activity for the past 12 months*
-
-</div>
-
 ---
 
 
